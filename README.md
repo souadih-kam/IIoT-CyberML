@@ -70,9 +70,9 @@ If you use this code in your research, please cite our work:
 
 ```bibtex
 @article{YourName2025IIoT,
-  title={Unified Intrusion Detection for Industrial IoT},
-  author={Surname, Name and Author, Another},
-  journal={Journal of Cybersecurity},
+  title={IIoT-CyberML: A Multi-Dataset Detection System applied to OT networks in critical infrastructures},
+  author={Kamal SOUADIH and Foudil MIR},
+  journal={.............................},
   year={2025}
 }
 ```
@@ -80,4 +80,5 @@ If you use this code in your research, please cite our work:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
