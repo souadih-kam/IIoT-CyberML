@@ -1,4 +1,4 @@
-# Robust IIoT Intrusion Detection System (IDS) Framework
+# IIoT-CyberML: A Multi-Dataset Detection System applied to OT networks in critical infrastructures
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -80,3 +80,4 @@ If you use this code in your research, please cite our work:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
