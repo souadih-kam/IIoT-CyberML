@@ -6,7 +6,8 @@
 
 ## 📄 Abstract
 
-This repository contains the source code and analysis framework for the research paper on **"Unified Intrusion Detection for Industrial IoT using Hybrid Machine Learning Ensembles"**. We present a comprehensive analysis framework that harmonizes four major IIoT datasets (X-IIoTID, Edge-IIoTset, WUSTL-IIOT-2021, and TON-IoT) to train robust, cross-domain capable Intrusion Detection Systems.
+This repository contains the source code and analysis framework for the research paper on **"IIoT-CyberML: A Multi-Dataset Detection System applied to OT networks in critical infrastructures, is an Unified Intrusion Detection for Industrial IoT using Hybrid Machine Learning Ensembles"**. We present a comprehensive analysis framework that harmonizes four major IIoT datasets (X-IIoTID, Edge-IIoTset, WUSTL-IIOT-2021, and TON-IoT) to train robust, cross-domain capable Intrusion Detection Systems.
+IIoT-CyberML is a scalable machine learning framework for multi-class intrusion detection in Industrial IoT (IIoT) and OT environments. It fuses four major IIoT datasets (X-IIOTID, Edge-IIoTset, WUSTL-IIoT-2021, TON IoT) into a unified corpus and applies a robust preprocessing and ensemble learning pipeline. A soft voting ensemble achieves 99.84% accuracy, demonstrating strong cross-dataset generalization while highlighting challenges in rare attack detection. This project provides a solid foundation for securing critical infrastructures against evolving cyber threats.
 
 ## 📂 Repository Structure
 
@@ -80,5 +81,6 @@ If you use this code in your research, please cite our work:
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
